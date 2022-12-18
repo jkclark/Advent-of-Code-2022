@@ -10,7 +10,7 @@ def problem_xx_1():
 def problem_xx_2():
     input_lines = read_file("inputs/xx_1.txt")
 
-    return NotImplementedError
+    raise NotImplementedError
 
 
 print(f"Problem xx - 1: {problem_xx_1()}")
